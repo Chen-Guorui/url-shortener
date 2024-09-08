@@ -1,0 +1,17 @@
+{
+    "MySQL": {
+        "Host": "localhost",
+        "Port": 3306,
+        "Username": "admin",
+        "Password": "mysql",
+        "Database": "url_shortener"
+    },
+
+    "Port": 8000,
+
+    "Log": {
+        "Path": "./logs",
+        "Server": "server.log",
+        "Request": "request.log"
+    }
+}
